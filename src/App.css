@@ -1,0 +1,16 @@
+h3.vertical-timeline-element-title {
+    display: block;
+    font-weight: bold;
+}
+
+h4.vertical-timeline-element-subtitle{
+    display: block;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+span.vertical-timeline-element-date{
+    display: block;
+    font-weight: bold;
+    color: #333;
+}
