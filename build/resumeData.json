@@ -1,0 +1,468 @@
+{
+  "main": {
+    "name":"Randy Liu",
+    "chinesename": "劉鎧禎",
+    "occupation":"Gradute Student",
+    "description":"Energetic, hardworking, and dependable in everything",
+    "image":"profilepic.jpg",
+    "bio":"Despite being a graduate student, I already have lots of internships, projects, and even work experience which includes parametric design, software API development, App development, and website development.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "wert6410@gmail.com",
+    "phone": "+886 970-955-073",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Taipei",
+      "state":"Taiwan",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"./assets/CV_Randy.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/wert6410",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kai-zhen-liu-25a23716a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/randyliu6410",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/RandyLiu6410",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always interested in playing around with new technologies and eager to integrate them into an application.",
+    "education":[
+      {
+        "school":"National Taiwan University",
+        "degree":"M.S. Computer Aided Engineering",
+        "graduated":"Expected February 2021",
+        "description":""
+      },
+      {
+        "school":"National Cheng Kung University",
+        "degree":"B.S. Civil Engineering",
+        "graduated":"June 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"The Hong Kong Polytechnic University",
+        "title":"Research Assistant",
+        "years":"August 2019 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"Revit API",
+        "level":"80%"
+      },
+      {
+        "name":"Grasshopper",
+        "level":"65%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"C#",
+        "level":"75%"
+      },
+      {
+        "name":"Swift",
+        "level":"60%"
+      },
+      {
+        "name":"Solidity",
+        "level":"70%"
+      },
+      {
+        "name":"React.js",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "type": "work",
+      "title": "Research Assistant",
+      "subtitle": "The Hong Kong Polytechnic University, Hong Kong",
+      "time": "Aug 2019 – Present",
+      "description": "",
+      "status": true
+    },
+    {
+      "type": "work",
+      "title": "iOS App Developer",
+      "subtitle": "Freelancer, Taiwan",
+      "time": "Nov 2019 – May 2020",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "work",
+      "title": "Grasshopper Developer",
+      "subtitle": "Freelancer, Australia",
+      "time": "July 2019 – Dec 2019",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "work",
+      "title": "Revit API Developer",
+      "subtitle": "NTU BIM Center, Taiwan",
+      "time": "Feb 2019 – July 2020",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "work",
+      "title": "Grasshopper Developer",
+      "subtitle": "NTU BIM Center, Taiwan",
+      "time": "Sep 2018 – Jan 2019",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "work",
+      "title": "HCI Developer",
+      "subtitle": "AirStructure Lab, Taiwan",
+      "time": "Sep 2018 – Jan 2019",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "education",
+      "title": "MSc Civil Engineering, Computer Aided Engineering",
+      "subtitle": "National Taiwan University, Taiwan",
+      "time": "2018-2021",
+      "description": "",
+      "status": true
+    },
+    {
+      "type": "education",
+      "title": "Exchange student Civil Engineering",
+      "subtitle": "Tongji University, Shanghai, China",
+      "time": "Mar 2017 – July 2017",
+      "description": "",
+      "status": false
+    },
+    {
+      "type": "education",
+      "title": "BSc Civil Engineering",
+      "subtitle": "National Cheng Kung University, Taiwan",
+      "time": "2014-2018",
+      "description": "",
+      "status": false
+    }
+  ],
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Structural Health Monitor System",
+        "category":"One of my projects in PolyU.",
+        "image":"https://i.imgur.com/WVLeKNX.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/WVLeKNX.png",
+            "thumbnail": "https://i.imgur.com/WVLeKNXm.png",
+            "description": "Platform overview"
+          },
+          {
+            "original": "https://i.imgur.com/YB8lsd2.png",
+            "thumbnail": "https://i.imgur.com/YB8lsd2m.png",
+            "description": "Modified layout"
+          },
+          {
+            "original": "https://i.imgur.com/rQtG9yg.png",
+            "thumbnail": "https://i.imgur.com/rQtG9ygm.png",
+            "description": "Sensor readings"
+          },
+          {
+            "original": "https://i.imgur.com/QkrE9lZ.gif",
+            "thumbnail": "https://i.imgur.com/QkrE9lZm.gif",
+            "description": "Tools of Forge viewer"
+          },
+          {
+            "original": "https://i.imgur.com/Ftj0Dcv.gif",
+            "thumbnail": "https://i.imgur.com/Ftj0Dcvm.gif",
+            "description": "Flex layout"
+          },
+          {
+            "original": "https://i.imgur.com/1lEDt2r.gif",
+            "thumbnail": "https://i.imgur.com/1lEDt2rm.gif",
+            "description": "Dynamic sensor readings"
+          }
+        ],
+        "description": "A convenient collaboration system, “BIM-AR”, for Structure Health Monitoring (SHM) which allows users to check 3D BIM models, construction progress schedules, and dynamic sensor readings on a web-based platform.",
+        "refs": []
+      },
+      {
+        "title":"Accounts management platform",
+        "category":"One of my side projects",
+        "image":"https://i.imgur.com/7Ndeokj.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/47SeEmK.png",
+            "thumbnail": "https://i.imgur.com/47SeEmKm.png",
+            "description": "Login"
+          },
+          {
+            "original": "https://i.imgur.com/7Ndeokj.png",
+            "thumbnail": "https://i.imgur.com/7Ndeokjm.png",
+            "description": "Dashboard"
+          },
+          {
+            "original": "https://i.imgur.com/OGJ7ppB.png",
+            "thumbnail": "https://i.imgur.com/OGJ7ppBm.png",
+            "description": "Add user"
+          },
+          {
+            "original": "https://i.imgur.com/X49OXyL.gif",
+            "thumbnail": "https://i.imgur.com/X49OXyLm.gif",
+            "description": "Demo"
+          }
+        ],
+        "description": "This platform is developed to manage software accounts of a futures trading company. The admin can track every record and generate trial accounts for the software through this platform.",
+        "refs": []
+      },
+      {
+        "title":"Parametric design - Auto-generate rebars",
+        "category":"Revit API project with Sinotech",
+        "image":"https://i.imgur.com/h2FyPE7m.gif",
+        "images": [
+          {
+            "original": "https://i.imgur.com/tRa0rJQ.gif",
+            "thumbnail": "https://i.imgur.com/tRa0rJQm.gif",
+            "description": "Result overview"
+          },
+          {
+            "original": "https://i.imgur.com/h2FyPE7.gif",
+            "thumbnail": "https://i.imgur.com/h2FyPE7m.gif",
+            "description": "Detail look"
+          },
+          {
+            "original": "https://i.imgur.com/kBUyXct.gif",
+            "thumbnail": "https://i.imgur.com/kBUyXctm.gif",
+            "description": "Detail look"
+          },
+          {
+            "original": "https://i.imgur.com/JAILpvq.gif",
+            "thumbnail": "https://i.imgur.com/JAILpvqm.gif",
+            "description": "Demo"
+          }
+        ],
+        "description": "This Revit add-in provides a fast way for structural designers to generate rebars in any metro BIM model. Rebar design rules are provided by Sinotech (A Construction Consultant. One of the best consultants in Taiwan.)",
+        "refs": []
+      },
+      {
+        "title":"Parametric design - Auto-generate railways",
+        "category":"Grasshopper project - One of my side projects",
+        "image":"https://i.imgur.com/vK4tk0a.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/DTvItGh.png",
+            "thumbnail": "https://i.imgur.com/DTvItGhm.png",
+            "description": "System UI"
+          },
+          {
+            "original": "https://i.imgur.com/vK4tk0a.png",
+            "thumbnail": "https://i.imgur.com/vK4tk0am.png",
+            "description": "Model after chainages are modified"
+          },
+          {
+            "original": "https://i.imgur.com/rb9xf22.png",
+            "thumbnail": "https://i.imgur.com/rb9xf22m.png",
+            "description": "Part of mep systems"
+          },
+          {
+            "original": "https://i.imgur.com/rN3sn0Y.png",
+            "thumbnail": "https://i.imgur.com/rN3sn0Ym.png",
+            "description": "Detail look"
+          },
+          {
+            "original": "https://i.imgur.com/RW9GwEA.gif",
+            "thumbnail": "https://i.imgur.com/RW9GwEAm.gif",
+            "description": "Demo"
+          }
+        ],
+        "description": "This grasshopper application allows designers to import design parameter files of railways to reduce the time of the frequent design changes by owners during the planning phase. Besides the structural components, MEP systems are also involved. The rhino models are generated automatically.",
+        "refs": []
+      },
+      {
+        "title":"Parametric design - Auto-generate bridges",
+        "category":"Grasshopper project with CECI",
+        "image":"https://i.imgur.com/zyQhl7q.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/q9GBEVt.png",
+            "thumbnail": "https://i.imgur.com/q9GBEVtm.png",
+            "description": "UI layout 1"
+          },
+          {
+            "original": "https://i.imgur.com/ValmGri.png",
+            "thumbnail": "https://i.imgur.com/ValmGrim.png",
+            "description": "UI layout 2"
+          },
+          {
+            "original": "https://i.imgur.com/Etd1qHn.png",
+            "thumbnail": "https://i.imgur.com/Etd1qHnm.png",
+            "description": "Result 1"
+          },
+          {
+            "original": "https://i.imgur.com/cdODriD.png",
+            "thumbnail": "https://i.imgur.com/cdODriDm.png",
+            "description": "Result 2"
+          },
+          {
+            "original": "https://i.imgur.com/zyQhl7q.png",
+            "thumbnail": "https://i.imgur.com/zyQhl7qm.png",
+            "description": "Final result"
+          },
+          {
+            "original": "https://i.imgur.com/IvjBrFk.gif",
+            "thumbnail": "https://i.imgur.com/IvjBrFkm.gif",
+            "description": "Demo"
+          }
+        ],
+        "description": "This grasshopper application allows bridge designers to input some parameters like chainages, type of bridges, and type of foundations, etc., to reduce the time of the frequent design changes by owners during the planning phase. All section designs are referenced from most cases and provided by CECI (A Construction Consultant. One of the best consultants in Taiwan.) The rhino models are generated automatically.",
+        "refs": []
+      },
+      {
+        "title":"iOS app for inspection of construction",
+        "category":"App development project with Jianguo",
+        "image":"https://i.imgur.com/7wssq2t.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/7wssq2t.png",
+            "thumbnail": "https://i.imgur.com/7wssq2tm.png",
+            "description": "Login"
+          },
+          {
+            "original": "https://i.imgur.com/oJZdy2g.png",
+            "thumbnail": "https://i.imgur.com/oJZdy2gm.png",
+            "description": "Report list"
+          },
+          {
+            "original": "https://i.imgur.com/1zOmvGR.png",
+            "thumbnail": "https://i.imgur.com/1zOmvGRm.png",
+            "description": "Create report"
+          },
+          {
+            "original": "https://i.imgur.com/j5aLybe.png",
+            "thumbnail": "https://i.imgur.com/j5aLybem.png",
+            "description": "AR model in app"
+          },
+          {
+            "original": "https://i.imgur.com/78e0Rw2.png",
+            "thumbnail": "https://i.imgur.com/78e0Rw2m.png",
+            "description": "Another report list"
+          },
+          {
+            "original": "https://i.imgur.com/othkorU.gif",
+            "thumbnail": "https://i.imgur.com/othkorUm.gif",
+            "description": "Demo"
+          }
+        ],
+        "description": "An inspection app on the iOS platform providing different types of reports and sheets for on-site inspections. This App provides different functions including taking photos, making reports, and checking indoor localization AR models.",
+        "refs": []
+      },
+      {
+        "title":"Color Blind - Game App",
+        "category":"Unity project - game app",
+        "image":"https://i.imgur.com/DRNTqUI.png",
+        "images": [
+          {
+            "original": "https://i.imgur.com/nTnViNK.gif",
+            "thumbnail": "https://i.imgur.com/nTnViNKm.gif",
+            "description": "Game scene"
+          },
+          {
+            "original": "https://i.imgur.com/FN2qCiM.gif",
+            "thumbnail": "https://i.imgur.com/FN2qCiMm.gif",
+            "description": "Show path"
+          },
+          {
+            "original": "https://i.imgur.com/KEMgyAb.png",
+            "thumbnail": "https://i.imgur.com/KEMgyAbm.png",
+            "description": "Score"
+          },
+          {
+            "original": "https://i.imgur.com/KEMgyAb.png",
+            "thumbnail": "https://i.imgur.com/KEMgyAbm.png",
+            "description": "Leaderboard"
+          }
+        ],
+        "description": "Players in \"Color blind\" need to click the correct nearby box which corresponds to the color the words denote. When the game is over, the path will be shown. This app also provides a leaderboard as a competitive element.",
+        "refs": []
+      },
+      {
+        "title":"On the Land Blowing",
+        "category":"AIRSTRUCTURE LAB - StartUp",
+        "image":"https://i.imgur.com/60RHlNU.jpg",
+        "images": [
+          {
+            "original": "https://i.imgur.com/60RHlNU.jpg",
+            "thumbnail": "https://i.imgur.com/60RHlNUm.jpg",
+            "description": "On the Land Blowing"
+          },
+          {
+            "original": "https://i.imgur.com/w0Dd0i4.jpg",
+            "thumbnail": "https://i.imgur.com/w0Dd0i4m.jpg",
+            "description": "Production process"
+          },
+          {
+            "original": "https://i.imgur.com/Fm2HPOC.jpg",
+            "thumbnail": "https://i.imgur.com/Fm2HPOCm.jpg",
+            "description": "Integrate HCI mechanisms"
+          },
+          {
+            "original": "https://i.imgur.com/NkJ3Oyw.png",
+            "thumbnail": "https://i.imgur.com/NkJ3Oywm.png",
+            "description": "Report"
+          },
+          {
+            "original": "https://i.imgur.com/uoX92cX.png",
+            "thumbnail": "https://i.imgur.com/uoX92cXm.png",
+            "description": "Report"
+          }
+        ],
+        "description": "\"On the Land Blowing\" 「在島上呼吸」 won 2nd prize in 2018 Taipei New Horizon Art Festival. Air is nowhere, however, we can't really see air or touch air. This work makes the audience interact with the air. Once you walk into the area, the balloons will interact with you. The mode of interaction differs with different people. And I'm the HCI developer/engineer.",
+        "refs": ["https://youtu.be/iQUWsvz-RFQ", "https://youtu.be/-hv0yB5F2ME"]
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
