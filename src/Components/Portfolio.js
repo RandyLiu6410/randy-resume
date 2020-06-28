@@ -36,7 +36,7 @@ class Portfolio extends Component {
         return <div key={project.title} className="columns portfolio-item">
            <div className="item-wrap">
            <button onClick={() => this.show(index)}>
-              <img alt={project.title} src={project.image} style={{height:100, width:200}}/>
+              <img alt={project.title} src={project.image}/>
                <div className="overlay">
                   <div className="portfolio-item-meta">
                  <h5>{project.title}</h5>

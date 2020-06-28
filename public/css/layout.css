@@ -500,6 +500,17 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   object-fit: contain;
+   height: 115px;
+   width: 200px;
+}
+@media (max-width: 600px){
+   .portfolio-item .item-wrap img{
+      vertical-align: bottom;
+      object-fit: contain;
+      height:172px;
+      width:300px;
+   }
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h5 {
