@@ -350,45 +350,6 @@
         "refs": []
       },
       {
-        "title":"iOS app for inspection of construction",
-        "category":"App development project with Jianguo",
-        "image":"https://i.imgur.com/7wssq2t.png",
-        "images": [
-          {
-            "original": "https://i.imgur.com/7wssq2t.png",
-            "thumbnail": "https://i.imgur.com/7wssq2tm.png",
-            "description": "Login"
-          },
-          {
-            "original": "https://i.imgur.com/oJZdy2g.png",
-            "thumbnail": "https://i.imgur.com/oJZdy2gm.png",
-            "description": "Report list"
-          },
-          {
-            "original": "https://i.imgur.com/1zOmvGR.png",
-            "thumbnail": "https://i.imgur.com/1zOmvGRm.png",
-            "description": "Create report"
-          },
-          {
-            "original": "https://i.imgur.com/j5aLybe.png",
-            "thumbnail": "https://i.imgur.com/j5aLybem.png",
-            "description": "AR model in app"
-          },
-          {
-            "original": "https://i.imgur.com/78e0Rw2.png",
-            "thumbnail": "https://i.imgur.com/78e0Rw2m.png",
-            "description": "Another report list"
-          },
-          {
-            "original": "https://i.imgur.com/othkorU.gif",
-            "thumbnail": "https://i.imgur.com/othkorUm.gif",
-            "description": "Demo"
-          }
-        ],
-        "description": "An inspection app on the iOS platform providing different types of reports and sheets for on-site inspections. This App provides different functions including taking photos, making reports, and checking indoor localization AR models.",
-        "refs": []
-      },
-      {
         "title":"Color Blind - Game App",
         "category":"Unity project - game app",
         "image":"https://i.imgur.com/DRNTqUI.png",
